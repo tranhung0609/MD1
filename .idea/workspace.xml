@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8da6450d-6ae6-47f3-b9b2-434706cf51aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Tạo form lấy survey khách hàng.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/thực hành.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tạo form lấy survey khách hàng.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tạo form lấy survey khách hàng.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +20,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/thực hành.html" root0="FORCE_HIGHLIGHTING" />
@@ -56,7 +64,7 @@
       <workItem from="1646653613942" duration="48000" />
       <workItem from="1646653664569" duration="3607000" />
       <workItem from="1646659066914" duration="512000" />
-      <workItem from="1646661023673" duration="681000" />
+      <workItem from="1646661023673" duration="3467000" />
     </task>
     <servers />
   </component>
