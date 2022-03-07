@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8da6450d-6ae6-47f3-b9b2-434706cf51aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CV bản thân.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tạo form lấy survey khách hàng.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thực hành.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +21,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/thực hành.html" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -33,7 +37,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../BÁO CÁO CODEGYM" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -44,7 +49,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1646396918456</updated>
-      <workItem from="1646396919703" duration="3091000" />
+      <workItem from="1646396919703" duration="3756000" />
+      <workItem from="1646646988587" duration="1396000" />
+      <workItem from="1646652529673" duration="946000" />
+      <workItem from="1646653590745" duration="21000" />
+      <workItem from="1646653613942" duration="48000" />
+      <workItem from="1646653664569" duration="3607000" />
+      <workItem from="1646659066914" duration="512000" />
+      <workItem from="1646661023673" duration="681000" />
     </task>
     <servers />
   </component>
